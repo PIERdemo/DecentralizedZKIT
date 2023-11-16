@@ -18,7 +18,7 @@
 
 Make sure to obtain a `poweroftau`.
 
-**Getting Started:**
+## Getting Started:
 
 1.  Clone this repository to your local system.
 2.  Run `generate_proof.py`
