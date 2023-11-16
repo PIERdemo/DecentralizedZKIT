@@ -5,7 +5,7 @@
 
 In the digital age, many online images are transformations of original, private content. Whether for economic value or sensitive material, maintaining the confidentiality and authenticity of the original image is crucial. Our project introduces a system designed to efficiently prove and verify the authenticity of transformed images.
 
-### Key Objectives:
+## Key Objectives:
 
 1. **Confidentiality:** Ensure the original image remains private.
 2. **Efficient Proof Generation:** Enable proof computation on standard hardware.
@@ -16,6 +16,7 @@ Our approach employs a divide-and-conquer strategy, applying sub-transformations
 
 In our experimental evaluation, we focus on transformations like resizing. Results demonstrate the practicality of our approach, showcasing the generation of a faithful transformation for a 30MP high-resolution image with minimal hardware requirements: 16GB of RAM and 8 cores in just over 45 minutes.
 
+## Requirements
 ### For Python:
 
 - **numpy** v1.26.2
