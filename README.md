@@ -2,11 +2,10 @@
 [![Snarkjs Badge](https://img.shields.io/badge/proof_system-snarkjs-yellow)](https://github.com/iden3/snarkjs)
 ![Python Badge](https://img.shields.io/badge/generate-python-green)
 # Decentralized Zero-Knowledge Image Transformations
-# Image Authenticity Verification System
 
 In the digital age, many online images are transformations of original, private content. Whether for economic value or sensitive material, maintaining the confidentiality and authenticity of the original image is crucial. Our project introduces a system designed to efficiently prove and verify the authenticity of transformed images.
 
-Key Objectives:
+### Key Objectives:
 
 1. **Confidentiality:** Ensure the original image remains private.
 2. **Efficient Proof Generation:** Enable proof computation on standard hardware.
