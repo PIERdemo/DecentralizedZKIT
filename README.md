@@ -13,6 +13,7 @@ In the digital age, many online images are transformations of original, private 
 4. **Fast Fraud Detection:** Swiftly identify and reject fraudulent proofs.
 
 Our approach employs a divide-and-conquer strategy, applying sub-transformations to tiles of the original image. These tiles are then reconnected with their sub-proofs, ensuring both efficiency and security.
+
 In our experimental evaluation, we focus on transformations like resizing. Results demonstrate the practicality of our approach, showcasing the generation of a faithful transformation for a 30MP high-resolution image with minimal hardware requirements: 16GB of RAM and 8 cores in just over 45 minutes.
 
 ### For Python:
